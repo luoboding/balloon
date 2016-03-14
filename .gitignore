@@ -1,0 +1,12 @@
+node_modules
+.tmp
+.sass-cache
+.DS_Store
+.idea
+**/dest
+**/bower_components/
+**/dest
+*/**/.tmp
+.settings/
+.sass-cache/
+app/components/env.conf.js

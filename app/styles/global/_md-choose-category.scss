@@ -1,0 +1,11 @@
+//this css is respond to choose-category directive;
+.g-md-choose-category{
+    display: flex;
+    select{
+        flex: 1;
+        margin-right: 10px;
+        &:last-child{
+            margin-right: 0;
+        }
+    }
+}
